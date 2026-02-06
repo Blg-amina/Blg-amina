@@ -31,8 +31,8 @@
 #### 📊 **𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬**
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Blg-amina&show_icons=true&theme=material-palenight&count_private=true" width="400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Blg-amina&layout=compact&theme=material-palenight" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Blg-amina&show_icons=true&theme=default&count_private=true" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Blg-amina&layout=compact&theme=default" width="300" />
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
