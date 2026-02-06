@@ -9,8 +9,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🎓 **𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧**
-* **Master’s Degree in Cybersecurity & Artificial Intelligence**
 * **Bachelor's degree in Computer Systems**
+* **Master’s Degree in Cybersecurity & Artificial Intelligence**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
