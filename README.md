@@ -1,16 +1,101 @@
-## Hi there 👋
+# 𝐇𝐢, 𝐈'𝐦 𝐀𝐦𝐢𝐧𝐚 𝐁𝐞𝐥𝐚𝐠𝐠𝐨𝐮𝐧 👋
 
-<!--
-**Blg-amina/Blg-amina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 𝐇𝐢, 𝐈'𝐦 𝐀𝐦𝐢𝐧𝐚 𝐁𝐞𝐥𝐚𝐠𝐠𝐨𝐮𝐧 👋
 
-Here are some ideas to get you started:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flutter Web](https://img.shields.io/badge/Flutter%20Web-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Location](https://img.shields.io/badge/Based%20in-Algeria%20🇩🇿-green?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📱 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 🌐 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬 𝐖𝐢𝐭𝐡 𝐅𝐥𝐮𝐭𝐭𝐞𝐫**
+
+> Passionate about building high-performance, secure, and beautiful mobile & web experiences.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🎓 **𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧**
+* **Master’s Degree in Cybersecurity & Artificial Intelligence**
+* **Bachelor's degree in Computer Systems**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
+* 🧠 **Flutter Specialist** focused on clean architecture and scalable codebases.
+* 💼 Currently developing **cross-platform mobile and web applications** using **Flutter, Dart, and Firebase**.
+* 🌱 Deepening my expertise in **State Management** and **App Performance**.
+* 🛠️ I love turning complex business requirements into simple, elegant interfaces.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🧰 **𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤**
+* **Mobile & Web Development:** Flutter | Dart | Android | iOS | Web
+* **Architecture & State Management:** Clean Architecture | BLoC | Provider
+* **Backend & Integration:** Firebase | REST APIs | Cloud Firestore | SQLite
+* **Tools & Workflow:** Git | GitHub | VS Code | Postman | Agile/Scrum
+
+#### 📊 **𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬**
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Blg-amina&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Blg-amina&layout=compact&theme=visual_studio_code" alt="Top Langs" width="300" />
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 📫 **𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭**
+* 🌐 [**Portfolio**](https://aminadevapp.netlify.app/)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/amina-belaggoun-2165972a2/)
+* 📬 [**Email me**](mailto:belaggounamina@gmail.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+**📱 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 💻 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**
+
+> Passionate about building high-performance, secure, and beautiful mobile experiences.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🎓 **𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧**
+* **Master’s Degree in Cybersecurity & Artificial Intelligence**
+* **Bachelor's degree in Computer Systems**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
+* 🧠 **Flutter Specialist** focused on clean architecture and scalable codebases.
+* 💼 Currently developing cross-platform applications using **Flutter, Dart, and Firebase**.
+* 🌱 Deepening my expertise in **State Management** and **App Performance**.
+* 🛠️ I love turning complex business requirements into simple, elegant mobile interfaces.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🧰 **𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤**
+* **Mobile Development:** Flutter | Dart | Android | iOS
+* **Architecture & State Management:** Clean Architecture | BLoC | Provider
+* **Backend & Integration:** Firebase | REST APIs | Cloud Firestore | SQLite
+* **Tools & Workflow:** Git | GitHub | VS Code | Postman | Agile/Scrum
+
+#### 📊 **𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blg-amina&show_icons=true&theme=material-palenight&rank_icon=github&count_private=true" alt="Amina's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blg-amina&layout=compact&theme=material-palenight&hide_border=false" alt="Most Used Languages" />
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 📂 **𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
+* **Real-Time Messaging App:** Secure cross-platform chat with Firebase integration.
+* **Enterprise Auth System:** Robust authentication flow with secure session handling.
+* **Business Management Tool:** Scalable Flutter app for structured operations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 📫 **𝐋𝐞𝐭's 𝐂𝐨𝐧𝐧𝐞𝐜𝐭**
+* 🌐 [**Portfolio**](https://aminadevapp.netlify.app/)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/amina-belaggoun-2165972a2/)
+* 📬 [**Email me**](mailto:belaggounamina@gmail.com)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
